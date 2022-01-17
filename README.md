@@ -13,10 +13,10 @@ I'm a Husband, Father, Automation Tester and Teacher!!
 - 😄 Pronouns: He/Male
 - ⚡ Fun fact: Bring happiness around me ;)
 
-https://github-readme-stats.vercel.app/api?username=celalhasim&show_icons=true&theme=radical
-
-
     @@ -21,8 +21,7 @@ I'm a Husband, Father, Automation Tester and Teacher!!
+    
+   ![Github stats 2] (https://github-readme-stats.vercel.app/api?username=celalhasim&show_icons=true&theme=radical)
+    
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/seyfullahmrdn/) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00aced?style=flat-quare&labelColor=3b5998&logo=twitter&logoColor=white&link=link)](https://twitter.com/i/flow/login) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-quare&labelColor=3b5998&logo=facebook&logoColor=white&link=link)](https://www.facebook.com/Bedbini/) 
