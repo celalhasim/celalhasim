@@ -13,7 +13,6 @@ I'm a Husband, Father, Automation Tester and Teacher!!
 - 😄 Pronouns: He/Male
 - ⚡ Fun fact: Bring happiness around me ;)
 
-    @@ -21,8 +21,7 @@ I'm a Husband, Father, Automation Tester and Teacher!!
     
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=celalhasim&show_icons=true&theme=radical)
     
