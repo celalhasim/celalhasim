@@ -1,5 +1,8 @@
 ### Hi There, I'm Celal HASİM 👋
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/celalhasim) If you want 7/24 i'm here
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/celalhasim) 
+
+If you want 7/24 i'm here
+
 I'm a Husband, Father, Automation Tester and Teacher!!
 - 🔭 I’m currently working on Freelancer
 - 🌱 I’m currently learning Java,Selenium,HTML,CSS,SQL,SDLC, OOP In short, everything! :)
@@ -9,6 +12,7 @@ I'm a Husband, Father, Automation Tester and Teacher!!
 - 📫 How to reach me: celalhasim@gmail.com
 - 😄 Pronouns: He/Male
 - ⚡ Fun fact: Bring happiness around me ;)
+- 
     @@ -21,8 +21,7 @@ I'm a Husband, Father, Automation Tester and Teacher!!
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/seyfullahmrdn/) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00aced?style=flat-quare&labelColor=3b5998&logo=twitter&logoColor=white&link=link)](https://twitter.com/i/flow/login) 
