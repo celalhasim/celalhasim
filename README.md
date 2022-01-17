@@ -15,7 +15,7 @@ I'm a Husband, Father, Automation Tester and Teacher!!
 
     @@ -21,8 +21,7 @@ I'm a Husband, Father, Automation Tester and Teacher!!
     
-   ![Github stats 2] (https://github-readme-stats.vercel.app/api?username=celalhasim&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=celalhasim&show_icons=true&theme=radical)
     
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/seyfullahmrdn/) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00aced?style=flat-quare&labelColor=3b5998&logo=twitter&logoColor=white&link=link)](https://twitter.com/i/flow/login) 
