@@ -3,7 +3,7 @@
 
 If you want 7/24 i'm here
 
-I'm a Husband, Father, Automation Tester and Teacher!!
+I'm a Husband, Father and Automation Tester!
 - 🔭 I’m currently working on Freelancer
 - 🌱 I’m currently learning Java,Selenium,HTML,CSS,SQL,SDLC, OOP In short, everything! :)
 - 👯 I’m looking to collaborate on some java projects
