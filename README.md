@@ -5,7 +5,7 @@ If you want 7/24 i'm here
 
 I'm a Husband, Father and Automation Tester!
 - 🔭 I’m currently working on Freelancer
-- 🌱 I’m currently learning Java,Selenium(POM, TestNG, Cucumber),JDBC,HTML,CSS,SQL,SDLC, OOP In short, everything! :)
+- 🌱 I’m currently learning Java,Selenium(POM, TestNG, Cucumber BDD),JDBC,HTML,CSS,SQL,SDLC, OOP In short, everything! :)
 - 👯 I’m looking to collaborate on some java projects
 - 🤔 I’m looking for help with finding place for probation 
 - 💬 Ask me about anything related to Java/Selenium/CSS/OOP Concept
